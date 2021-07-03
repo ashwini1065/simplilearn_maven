@@ -87,7 +87,7 @@ public class LoginPage {
 		//WebElement Error = driver.findElement(By.id("msg_box"));
 	    
 	    String ActMsg = Error.getText();
-	    String ExpMsg = "The email or password you have entered is invalid.";
+	    String ExpMsg = "The email or password is invalid. ";
 	            
 	    Assert.assertTrue(Error.isDisplayed());
 	}
