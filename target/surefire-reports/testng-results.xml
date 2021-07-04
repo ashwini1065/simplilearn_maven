@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7067" started-at="2021-06-27T04:25:14 UTC" finished-at="2021-06-27T04:25:21 UTC">
+  <suite name="Suite" duration-ms="6153" started-at="2021-07-04T04:04:47 UTC" finished-at="2021-07-04T04:04:53 UTC">
     <groups>
     </groups>
-    <test name="application" duration-ms="7067" started-at="2021-06-27T04:25:14 UTC" finished-at="2021-06-27T04:25:21 UTC">
+    <test name="application" duration-ms="6153" started-at="2021-07-04T04:04:47 UTC" finished-at="2021-07-04T04:04:53 UTC">
       <class name="test.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:test.LoginTest@35d176f7]" name="setup" is-config="true" duration-ms="2876" started-at="2021-06-27T04:25:14 UTC" finished-at="2021-06-27T04:25:17 UTC">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.LoginTest@3cef309d]" name="setup" is-config="true" duration-ms="2780" started-at="2021-07-04T04:04:47 UTC" finished-at="2021-07-04T04:04:50 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest2()[pri:0, instance:test.LoginTest@35d176f7]" name="LoginTest2" duration-ms="3763" started-at="2021-06-27T04:25:17 UTC" finished-at="2021-06-27T04:25:21 UTC">
+        <test-method status="PASS" signature="LoginTest2()[pri:0, instance:test.LoginTest@3cef309d]" name="LoginTest2" duration-ms="2936" started-at="2021-07-04T04:04:50 UTC" finished-at="2021-07-04T04:04:53 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest2 -->
-        <test-method status="PASS" signature="aftermethod()[pri:0, instance:test.LoginTest@35d176f7]" name="aftermethod" is-config="true" duration-ms="393" started-at="2021-06-27T04:25:21 UTC" finished-at="2021-06-27T04:25:21 UTC">
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:test.LoginTest@3cef309d]" name="aftermethod" is-config="true" duration-ms="399" started-at="2021-07-04T04:04:53 UTC" finished-at="2021-07-04T04:04:53 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftermethod -->
