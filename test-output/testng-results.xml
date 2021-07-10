@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="2614" started-at="2021-07-04T07:08:08 UTC" finished-at="2021-07-04T07:08:10 UTC">
+  <suite name="Default suite" duration-ms="93" started-at="2021-07-10T06:05:02 UTC" finished-at="2021-07-10T06:05:02 UTC">
     <groups>
     </groups>
-    <test name="Test" duration-ms="2614" started-at="2021-07-04T07:08:08 UTC" finished-at="2021-07-04T07:08:10 UTC">
-      <class name="test.ParallelExecution">
-        <test-method status="PASS" signature="Testcase1()[pri:0, instance:test.ParallelExecution@17d677df]" name="Testcase1" duration-ms="2556" started-at="2021-07-04T07:08:08 UTC" finished-at="2021-07-04T07:08:10 UTC">
+    <test name="Default test" duration-ms="93" started-at="2021-07-10T06:05:02 UTC" finished-at="2021-07-10T06:05:02 UTC">
+      <class name="TDD.PrimeNumTest">
+        <test-method status="PASS" signature="NegativeTest()[pri:0, instance:TDD.PrimeNumTest@2bbf4b8b]" name="NegativeTest" duration-ms="13" started-at="2021-07-10T06:05:02 UTC" finished-at="2021-07-10T06:05:02 UTC">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase1 -->
-        <test-method status="PASS" signature="Testcase2()[pri:0, instance:test.ParallelExecution@17d677df]" name="Testcase2" duration-ms="1798" started-at="2021-07-04T07:08:08 UTC" finished-at="2021-07-04T07:08:10 UTC">
+        </test-method> <!-- NegativeTest -->
+        <test-method status="PASS" signature="PositiveTest()[pri:0, instance:TDD.PrimeNumTest@2bbf4b8b]" name="PositiveTest" duration-ms="1" started-at="2021-07-10T06:05:02 UTC" finished-at="2021-07-10T06:05:02 UTC">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Testcase2 -->
-      </class> <!-- test.ParallelExecution -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- PositiveTest -->
+      </class> <!-- TDD.PrimeNumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
